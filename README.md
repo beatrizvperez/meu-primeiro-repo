@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 
-Alterando remotamente o repositório, 
+Alterando remotamente o repositório.
